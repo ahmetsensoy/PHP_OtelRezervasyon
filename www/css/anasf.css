@@ -1,0 +1,40 @@
+.sensoyturızm{
+    width: 200px;
+}
+.yerdivs{
+    border-radius: 30px;
+    width: 100%;
+    height: 250px;
+    
+}
+.yazi{
+    font-size: xx-large;
+}
+.yerdivs1{
+    background-color: goldenrod;
+}
+
+.yerdivs1:hover{
+    background-color:  #808080;
+
+}
+.yerdivs2{
+    background-color: rgba(0, 128, 79, 0.521);
+}
+
+.yerdivs2:hover{
+    background-color:#808080;
+
+}
+
+.kesfet:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.git:hover{
+    background-color: rgba(0, 128, 79, 0.521);
+    color:black;
+}
+.git{
+margin-top: -10px;
+}

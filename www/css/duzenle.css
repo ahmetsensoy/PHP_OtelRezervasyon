@@ -1,0 +1,17 @@
+.formdiv{
+    width: 30%;
+    height: 300px;
+   margin-top: 250px;
+   background-color:;
+   margin-left: 640px;
+   background-color: rgba(202, 181, 181, 0.575);
+   border-radius: 10px;
+   box-shadow: 10px 10px 10px;
+}
+label{
+    font-size: larger;
+    padding-left: 20px;
+}
+input{
+    text-align: center;
+}
